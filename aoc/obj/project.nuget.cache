@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7gHOEmqLf5DnNhHwKVenOP4wffYt2FeLzOfA58eb84xKGWVP9nkYXPpV7+T7csrm1cMwTkEAoOmefjH8qxlIsw==",
+  "dgSpecHash": "siZtk/ZVF2zUCmmFvCVinsPdaGWfZpbwQFbtGqtqGmD7LBKFsDanucnmE9ebQAJaiutEcvgUg5eVBOKX3UKVYQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\sever\\Desktop\\Documents\\Visual Studio Code Projects\\AOC\\aoc\\aoc.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sever\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

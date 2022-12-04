@@ -7,27 +7,14 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "aoc/1.0.0": {
-        "dependencies": {
-          "aocLibrary": "1.0.0"
-        },
         "runtime": {
           "aoc.dll": {}
-        }
-      },
-      "aocLibrary/1.0.0": {
-        "runtime": {
-          "aocLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
     "aoc/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "aocLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
