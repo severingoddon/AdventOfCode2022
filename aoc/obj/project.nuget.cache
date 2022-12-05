@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "siZtk/ZVF2zUCmmFvCVinsPdaGWfZpbwQFbtGqtqGmD7LBKFsDanucnmE9ebQAJaiutEcvgUg5eVBOKX3UKVYQ==",
+  "dgSpecHash": "QonL+rSXc7Cg1DA8E3NGH6IQ87B1Jktxa8AoxcEjlISCJ7WllFSodR0/PS9bLGeS3YZ67MuH/UKRUTXmgekCOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sever\\Desktop\\Documents\\Visual Studio Code Projects\\AOC\\aoc\\aoc.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\sever\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "/Users/sevi/Desktop/Docs/VSCodeProjects/AOC/AdventOfCode2022/aoc/aoc.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

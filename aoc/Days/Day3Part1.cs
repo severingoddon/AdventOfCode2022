@@ -8,7 +8,7 @@ namespace Days
         public static void Part1()
         {   
             int sum = 0;
-            foreach (string line in System.IO.File.ReadLines(@"Days\inputs\input_3.txt")){
+            foreach (string line in System.IO.File.ReadLines("./Days/inputs/input_3.txt")){
                     sum += alphabet.IndexOf(intersect(line.Substring(0, line.Length/2), line.Substring(line.Length/2, line.Length/2)))+1;
             }
             Console.WriteLine(sum);

@@ -10,7 +10,7 @@ namespace Days
             int sum = 0;
             string[] group = new string[3];
             int index = 0;
-            foreach (string line in System.IO.File.ReadLines(@"Days\inputs\input_3.txt")){
+            foreach (string line in System.IO.File.ReadLines("./Days/inputs/input_3.txt")){
                     group[index%3] = line;
                     index +=1;
                     if(index%3==0 && index > 0){

@@ -1,0 +1,15 @@
+/Users/sevi/Desktop/Docs/VSCodeProjects/AOC/AdventOfCode2022/aoc/bin/Debug/net7.0/aoc
+/Users/sevi/Desktop/Docs/VSCodeProjects/AOC/AdventOfCode2022/aoc/bin/Debug/net7.0/aoc.deps.json
+/Users/sevi/Desktop/Docs/VSCodeProjects/AOC/AdventOfCode2022/aoc/bin/Debug/net7.0/aoc.runtimeconfig.json
+/Users/sevi/Desktop/Docs/VSCodeProjects/AOC/AdventOfCode2022/aoc/bin/Debug/net7.0/aoc.dll
+/Users/sevi/Desktop/Docs/VSCodeProjects/AOC/AdventOfCode2022/aoc/bin/Debug/net7.0/aoc.pdb
+/Users/sevi/Desktop/Docs/VSCodeProjects/AOC/AdventOfCode2022/aoc/obj/Debug/net7.0/aoc.csproj.AssemblyReference.cache
+/Users/sevi/Desktop/Docs/VSCodeProjects/AOC/AdventOfCode2022/aoc/obj/Debug/net7.0/aoc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sevi/Desktop/Docs/VSCodeProjects/AOC/AdventOfCode2022/aoc/obj/Debug/net7.0/aoc.AssemblyInfoInputs.cache
+/Users/sevi/Desktop/Docs/VSCodeProjects/AOC/AdventOfCode2022/aoc/obj/Debug/net7.0/aoc.AssemblyInfo.cs
+/Users/sevi/Desktop/Docs/VSCodeProjects/AOC/AdventOfCode2022/aoc/obj/Debug/net7.0/aoc.csproj.CoreCompileInputs.cache
+/Users/sevi/Desktop/Docs/VSCodeProjects/AOC/AdventOfCode2022/aoc/obj/Debug/net7.0/aoc.dll
+/Users/sevi/Desktop/Docs/VSCodeProjects/AOC/AdventOfCode2022/aoc/obj/Debug/net7.0/refint/aoc.dll
+/Users/sevi/Desktop/Docs/VSCodeProjects/AOC/AdventOfCode2022/aoc/obj/Debug/net7.0/aoc.pdb
+/Users/sevi/Desktop/Docs/VSCodeProjects/AOC/AdventOfCode2022/aoc/obj/Debug/net7.0/aoc.genruntimeconfig.cache
+/Users/sevi/Desktop/Docs/VSCodeProjects/AOC/AdventOfCode2022/aoc/obj/Debug/net7.0/ref/aoc.dll
