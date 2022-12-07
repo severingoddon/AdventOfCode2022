@@ -13,3 +13,18 @@
 /Users/sevi/Desktop/Docs/VSCodeProjects/AOC/AdventOfCode2022/aoc/obj/Debug/net7.0/aoc.pdb
 /Users/sevi/Desktop/Docs/VSCodeProjects/AOC/AdventOfCode2022/aoc/obj/Debug/net7.0/aoc.genruntimeconfig.cache
 /Users/sevi/Desktop/Docs/VSCodeProjects/AOC/AdventOfCode2022/aoc/obj/Debug/net7.0/ref/aoc.dll
+C:\Users\sever\Desktop\Documents\Visual Studio Code Projects\aoc\AdventOfCode2022\aoc\bin\Debug\net7.0\aoc.exe
+C:\Users\sever\Desktop\Documents\Visual Studio Code Projects\aoc\AdventOfCode2022\aoc\bin\Debug\net7.0\aoc.deps.json
+C:\Users\sever\Desktop\Documents\Visual Studio Code Projects\aoc\AdventOfCode2022\aoc\bin\Debug\net7.0\aoc.runtimeconfig.json
+C:\Users\sever\Desktop\Documents\Visual Studio Code Projects\aoc\AdventOfCode2022\aoc\bin\Debug\net7.0\aoc.dll
+C:\Users\sever\Desktop\Documents\Visual Studio Code Projects\aoc\AdventOfCode2022\aoc\bin\Debug\net7.0\aoc.pdb
+C:\Users\sever\Desktop\Documents\Visual Studio Code Projects\aoc\AdventOfCode2022\aoc\obj\Debug\net7.0\aoc.csproj.AssemblyReference.cache
+C:\Users\sever\Desktop\Documents\Visual Studio Code Projects\aoc\AdventOfCode2022\aoc\obj\Debug\net7.0\aoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sever\Desktop\Documents\Visual Studio Code Projects\aoc\AdventOfCode2022\aoc\obj\Debug\net7.0\aoc.AssemblyInfoInputs.cache
+C:\Users\sever\Desktop\Documents\Visual Studio Code Projects\aoc\AdventOfCode2022\aoc\obj\Debug\net7.0\aoc.AssemblyInfo.cs
+C:\Users\sever\Desktop\Documents\Visual Studio Code Projects\aoc\AdventOfCode2022\aoc\obj\Debug\net7.0\aoc.csproj.CoreCompileInputs.cache
+C:\Users\sever\Desktop\Documents\Visual Studio Code Projects\aoc\AdventOfCode2022\aoc\obj\Debug\net7.0\aoc.dll
+C:\Users\sever\Desktop\Documents\Visual Studio Code Projects\aoc\AdventOfCode2022\aoc\obj\Debug\net7.0\refint\aoc.dll
+C:\Users\sever\Desktop\Documents\Visual Studio Code Projects\aoc\AdventOfCode2022\aoc\obj\Debug\net7.0\aoc.pdb
+C:\Users\sever\Desktop\Documents\Visual Studio Code Projects\aoc\AdventOfCode2022\aoc\obj\Debug\net7.0\aoc.genruntimeconfig.cache
+C:\Users\sever\Desktop\Documents\Visual Studio Code Projects\aoc\AdventOfCode2022\aoc\obj\Debug\net7.0\ref\aoc.dll

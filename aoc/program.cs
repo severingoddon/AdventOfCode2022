@@ -16,7 +16,9 @@ namespace Days
            //Day4Part1.Part1();
            //Day4Part2.Part2();
            //Day5Part1.Part1();
-           Day5Part2.Part2();
+           //Day5Part2.Part2();
+           Day6Part1.Part1();
+           Day6Part2.Part2();
 
         }
     }
