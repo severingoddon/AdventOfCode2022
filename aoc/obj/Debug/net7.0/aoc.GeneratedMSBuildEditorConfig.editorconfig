@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = aoc
-build_property.ProjectDir = C:\Users\sever\Desktop\Documents\Visual Studio Code Projects\aoc\AdventOfCode2022\aoc\
+build_property.ProjectDir = /Users/sevi/Desktop/Docs/VSCodeProjects/AOC/AdventOfCode2022/aoc/
